@@ -10,7 +10,7 @@ For more info see my post [here](http://blog.shiftybit.net/open-sourcing-a-clock
 Screenshots
 ===========
 
-![Alt text](/screenshots/BinaryClockTicking.gif "Binary Clock")
+![Alt text](/Screenshots/BinaryClockTicking.gif "Binary Clock")
 
 
 License
